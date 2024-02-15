@@ -1,2 +1,2 @@
 # Void's Rift
-Repository for my modpack and mods and forks
+Repository for my modpack, mods and forks
