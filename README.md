@@ -1,7 +1,5 @@
 # Void's Rift
-Repository for my modpack, mods and forks
-
-Forks available in the releases tab
+Repository for my modpack, mods and forks - Forks available in the releases tab
 
 https://www.youtube.com/c/brandyyn
 
